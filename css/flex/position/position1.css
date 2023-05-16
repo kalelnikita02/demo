@@ -1,0 +1,16 @@
+.navbar
+{
+    height: 55px;
+    width: 100%;
+    background-color: black;
+}
+.art
+{
+    height: 55px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}

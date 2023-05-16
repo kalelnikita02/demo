@@ -1,0 +1,54 @@
+#sec1
+{
+    height: 40vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+}
+#sec2
+{
+    height: 40vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+#DIV1{
+    height: 150px;
+    width: 500px;
+    background-color: blue;
+
+    }
+#DIV2{
+    height: 150px;
+    width: 500px;
+    background-color: purple;
+    }
+ #DIV3{
+        height: 150px;
+        width: 500px;
+        background-color: pink;
+    }
+#DIV4{
+         height: 150px;
+        width: 500px;
+        background-color: chartreuse;
+    }
+
+#DIV5{
+                height: 150px;
+                width: 500px;
+                background-color: orange;   
+ }
+#DIV6{
+                height: 150px;
+                width: 500px;
+                background-color: wheat; 
+   }
+            

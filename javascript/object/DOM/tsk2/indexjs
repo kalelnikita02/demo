@@ -1,0 +1,5 @@
+let a =document.getElementById('p1')
+a.style.background="red"
+a.style.color="white"
+console.log(a);
+

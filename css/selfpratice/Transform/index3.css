@@ -1,0 +1,16 @@
+div{
+    height:200px;
+    width: 200px;
+    background-color: black;
+    transform: rotate(0deg); 
+    transition-delay: 5s;
+    transition-duration: 10s;
+    transition-timing-function: ease-in-out;
+}
+div:hover{
+    transform:rotate(360deg); 
+    transform: scale(1.5);
+    background-color: crimson;
+    border-radius: 10%;
+
+}

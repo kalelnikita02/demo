@@ -1,0 +1,40 @@
+h1{
+    color: black;
+    font-family: 'Courier New';
+    font-size: 5;
+}
+img{
+    size: 200;
+    border: 2px solid black;
+}
+table, th, td{
+    border: 2px  solid black;
+    border-collapse: collapse;
+
+}
+#u1{
+    color: aqua;
+    border-radius: 3px;
+}
+.t2{
+    color: red;
+    border: 2px dotted rebeccapurple;
+}
+p{
+    color: rgb(5, 5, 5);
+     font-family: 
+     
+     font-size: 15px;
+     font-style: italic;
+
+}
+.t1{
+    border-style: dashed;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-left-color: black;
+}
+
+body{
+    background:linear-gradient(olive,pink);
+}

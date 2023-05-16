@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: none;
+}
+
+  @media (max-width:300px)
+{
+    #box1{
+        display: block;
+        background-color: aquamarine;
+    }
+}
+@media (min-width:301px) and (max-width:500px)
+{
+    #box2{
+        display: block;
+        background-color: palegreen;
+    }
+} 
+ @media (min-width:501px) and (max-width:700px)
+{
+    #box3{
+        display: block;
+        background-color: mistyrose;
+    }
+} 
+
+ @media (min-width:701px) and (max-width:1500px)
+{
+    #box4{
+        display: block;
+        background-color:darkblue;
+    }
+}
